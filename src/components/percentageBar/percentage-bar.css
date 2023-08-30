@@ -1,8 +1,7 @@
 .percentage-bar {
     width: 40%;
     height: 20px;
-    margin-top: 2rem;
-    background-color: #ccc;
+    background-color: white;
     border-radius: 4px;
     overflow: hidden; 
   }
@@ -10,4 +9,5 @@
   .filled {
     height: 100%;
     background-color: #3498db;
+    border-radius: 4px;
   }

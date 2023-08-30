@@ -1,0 +1,17 @@
+.yellow-card {
+  width: 20px;
+  height: 20px;
+  background-color: yellow;
+}
+.red-card {
+  width: 20px;
+  height: 20px;
+  background-color: red;
+}
+
+.card-number {
+  text-align: left;
+  margin-left: 5px;
+  font-size: 14px;
+  color: black;
+}
