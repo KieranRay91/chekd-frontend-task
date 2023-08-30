@@ -1,0 +1,1 @@
+This simple widget has been developed to display football data received from an api call which will be made every 30 seconds. 
